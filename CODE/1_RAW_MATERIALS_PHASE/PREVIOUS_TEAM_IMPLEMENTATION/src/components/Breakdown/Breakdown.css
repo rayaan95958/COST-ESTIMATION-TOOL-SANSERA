@@ -1,0 +1,29 @@
+.Breakdown {
+  padding: 2rem;
+  background: white;
+  border-radius: 1rem;
+  box-shadow: var(--boxShadow);
+  overflow: auto;
+  max-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.gradio-container {
+  flex: 1;
+  margin-top: 2rem;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gradio-container iframe {
+  width: 100%;  /* Full width of the container */
+  height: 100%; /* Full height of the container */
+  border: none;
+}
