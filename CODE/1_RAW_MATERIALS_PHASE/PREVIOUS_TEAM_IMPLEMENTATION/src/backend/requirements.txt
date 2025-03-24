@@ -1,8 +1,15 @@
-#Install Python 3.11 and create a virtual environment
+#SETUP:
+
+#Install Python 3.11-> create a virtual #environment-> install this requirements.txt file.
+
+#RUN:
 
 #1.Run: python app.py
 #2.In another terminal, Run: python chatbot_backend.py
 #3.In another terminal, navigate to src: yarn install -> yarn start
+#2.In another terminal, navigate to src:yarn install -> yarn start
+
+#LIBRARIES:
 
 setuptools 
 wheel
