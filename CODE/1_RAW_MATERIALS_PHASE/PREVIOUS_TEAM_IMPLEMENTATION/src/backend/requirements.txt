@@ -5,7 +5,7 @@
 #RUN:
 
 #1.Run: python app.py
-#2.In another terminal, navigate to #src:yarn install -> yarn start
+#2.In another terminal, navigate to src:yarn install -> yarn start
 
 #LIBRARIES:
 
