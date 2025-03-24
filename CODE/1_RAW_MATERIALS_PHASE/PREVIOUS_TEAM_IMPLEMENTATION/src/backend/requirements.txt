@@ -1,6 +1,6 @@
 #SETUP:
 
-#Install Python 3.11-> create a virtual #environment-> install this #requirements.txt file.
+#Install Python 3.11-> create a virtual #environment-> install this requirements.txt file.
 
 #RUN:
 
