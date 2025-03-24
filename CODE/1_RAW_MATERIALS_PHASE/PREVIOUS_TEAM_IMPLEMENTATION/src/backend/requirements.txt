@@ -1,4 +1,4 @@
-#SETUP:
+/*#SETUP:
 
 #Install Python 3.11-> create a virtual #environment-> install this #requirements.txt file.
 
@@ -7,7 +7,7 @@
 #1.Run: python app.py
 #2.In another terminal, navigate to src: #yarn install -> yarn start
 
-#LIBRARIES:
+#LIBRARIES: */
 
 setuptools 
 wheel
