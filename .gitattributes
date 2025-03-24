@@ -2,3 +2,4 @@ CODE/* filter=lfs diff=lfs merge=lfs -text
 C:/Users/satar/OneDrive/Desktop/COST-ESTIMATION-TOOL-SANSERA/CODE/1_RAW_MATERIALS_PHASE/PREVIOUS_TEAM_IMPLEMENTATION/node_modules/.cache/default-development/0.pack filter=lfs diff=lfs merge=lfs -text
 C:/Users/satar/OneDrive/Desktop/COST-ESTIMATION-TOOL-SANSERA/venv/Lib/site-packages/xgboost/lib/xgboost.dll filter=lfs diff=lfs merge=lfs -text
 C:/Users/satar/OneDrive/Desktop/COST-ESTIMATION-TOOL-SANSERA/venv/Lib/site-packages/xgboost/lib/xgboost.dll filter=lfs diff=lfs merge=lfs -text
+venv/Lib/site-packages/xgboost/lib/xgboost.dll filter=lfs diff=lfs merge=lfs -text
