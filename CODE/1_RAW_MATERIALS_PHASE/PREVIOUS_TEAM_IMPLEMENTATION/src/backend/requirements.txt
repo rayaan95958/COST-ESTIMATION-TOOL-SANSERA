@@ -5,6 +5,8 @@
 #RUN:
 
 #1.Run: python app.py
+#2.In another terminal, Run: python chatbot_backend.py
+#3.In another terminal, navigate to src: yarn install -> yarn start
 #2.In another terminal, navigate to src:yarn install -> yarn start
 
 #LIBRARIES:
@@ -18,3 +20,9 @@ xgboost==1.7.4
 flask
 flask-cors
 pandas
+transformers==4.30.2
+sentence-transformers==2.2.2
+pinecone==6.0.2
+groq==0.5.0
+gradio==3.50.0
+huggingface-hub==0.15.1
